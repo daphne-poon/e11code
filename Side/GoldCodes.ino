@@ -1,4 +1,3 @@
-// Name: Aditya Khant . Worked with Daphne Poon
 
 //Initial constants
 #define PHOTSENSOR 19
